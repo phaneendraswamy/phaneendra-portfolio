@@ -1,6 +1,6 @@
 # Phaneendra Portfolio
 
-Live Link: https://phaneendra-portfolio-orby.vercel.app/
+Live Link:
 
 Description:
 AI + Data Analytics portfolio showcasing projects, dashboards, and systems.
