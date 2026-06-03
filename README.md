@@ -1,6 +1,6 @@
 # Phaneendra Portfolio
 
-Live Link:https://your-vercel-link
+Live Link: https://your-vercel-link
 
 Description:
 AI + Data Analytics portfolio showcasing projects, dashboards, and systems.
